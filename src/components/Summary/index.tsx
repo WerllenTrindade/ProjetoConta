@@ -19,14 +19,14 @@ export function Summary(){
                 <p>Saidas</p>
                 <img src={outcomeImg} alt="" />
             </header>
-            <strong>- R$500,00</strong>
+            <strong>- R$ 500,00</strong>
         </div>
         <div className="highlight-background">
             <header>
                 <p>Total</p>
                 <img src={Total} alt="" />
             </header>
-            <strong>R500,00</strong>
+            <strong>R$ 500,00</strong>
         </div>
     </Container>
     )
